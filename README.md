@@ -36,6 +36,12 @@ I enjoy turning data into practical solutions — from exploratory data analysis
 * Docker
 * SQL
 
+### 🌍 Languages
+
+* 🇺🇦 **Ukrainian** — Native
+* 🇬🇧 **English** — Professional Working Proficiency
+  
+
 ### 📊 Featured Projects
 
 #### Customer Churn Prediction
